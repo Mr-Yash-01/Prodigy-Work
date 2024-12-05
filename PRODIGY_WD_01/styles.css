@@ -1,0 +1,39 @@
+.limeGreen{
+    color: #65c51c
+}
+
+.darkGreen{
+    color: hsl(99, 61%, 10%);
+}
+
+
+.lightBlack{
+    color: #57534e;
+}
+
+
+.limeBack{
+    background-color: #65c51c;
+}
+
+.limeBack:hover{
+    background-color: #4ba30c;
+
+}
+
+.limeGreen-hr {
+    border-color: #65c51c;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+.limeGreen-hr {
+    border: 0;
+    height: 1px;
+    background: #65c51c;
+}
+
+.priceCard{
+    background: #fafaf9;
+}
